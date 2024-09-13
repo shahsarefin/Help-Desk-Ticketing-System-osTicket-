@@ -255,7 +255,7 @@ In this project, we configure a help desk ticketing system using osTicket on Azu
     </ul>
   </li>
 </ol>
----
+
 ### Purpose of the Lab
 
 The purpose of this lab is to provide hands-on experience in setting up and managing a help desk ticketing system using osTicket on Azure Virtual Machines. The lab demonstrates the configuration of a ticketing system to streamline support operations, manage user roles, set up departments, define SLAs, and handle ticket lifecycle management. This exercise simulates real-world help desk scenarios, enhancing skills in IT support, user management, and service delivery.
